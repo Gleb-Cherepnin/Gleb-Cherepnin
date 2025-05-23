@@ -15,4 +15,8 @@ I'm studying at The Rolling Scopes School.  Learning javaScript
 <img width="148" alt="13 docker" src="https://user-images.githubusercontent.com/60064512/224487722-133474de-ee6d-4444-bb1f-c66796fefacf.png" style="max-width: 100%;">  <img width="148" alt="15 figma" src="https://user-images.githubusercontent.com/60064512/224487724-7362c6ee-12c1-4976-8138-398808bd957a.png" style="max-width: 100%;"> <img width="148" alt="10 mongo" src="https://user-images.githubusercontent.com/60064512/224487719-7e7f7115-33cf-4db6-840e-bf306d6ab27e.png" style="max-width: 100%;">  <img width="148" alt="mongo sample" src="https://user-images.githubusercontent.com/60064512/224487725-fe8264c6-25a4-49ea-bf49-ed57b4e9f71e.png">  <img width="148" alt="footer sample" src="https://user-images.githubusercontent.com/60064512/224487726-cdab286a-fbc2-49cb-8b82-f1eafa0a5063.png" style="max-width: 100%;">
 
 
+<img width="148" alt="stylus logo" src="https://user-images.githubusercontent.com/60064512/224487727-673c2942-ed2d-41a5-b6bc-66330c1ba338.png" style="max-width: 100%;">
+
+
+
 

@@ -18,10 +18,10 @@ I'm studying at The Rolling Scopes School.  Learning javaScript
 <img width="148" alt="stylus logo" src="https://user-images.githubusercontent.com/60064512/224487727-673c2942-ed2d-41a5-b6bc-66330c1ba338.png" style="max-width: 100%;">
 
 
-# Мои проекты
+# My projects
 
-- [Шахматы](https://quiet-tarsier-e6fe15.netlify.app)
-- [Крестики-Нолики](https://papaya-dieffenbachia-8b553a.netlify.app)
+- [Chess](https://quiet-tarsier-e6fe15.netlify.app)
+- [Tic Tac Toe](https://papaya-dieffenbachia-8b553a.netlify.app)
 
 
 

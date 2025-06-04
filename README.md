@@ -21,6 +21,7 @@ I'm studying at The Rolling Scopes School.  Learning javaScript
 # Мои проекты
 
 - [Шахматы](https://quiet-tarsier-e6fe15.netlify.app)
+- [Крестики-Нолики](https://papaya-dieffenbachia-8b553a.netlify.app)
 
 
 

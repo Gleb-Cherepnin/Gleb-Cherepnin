@@ -10,6 +10,12 @@ I'm studying at The Rolling Scopes School.  Learning javaScript
 ## My Skills
 <img width="148" alt="01 html" src="https://user-images.githubusercontent.com/60064512/224487706-10850994-3a0f-419e-9a48-013107a1aac5.png" style="max-width: 100%;">  <img width="148" alt="02 css" src="https://user-images.githubusercontent.com/60064512/224487709-2a638c09-e758-4ee0-8a33-149bf7cb3562.png" style="max-width: 100%;">  <img width="148" alt="MongoDB Example" src="https://user-images.githubusercontent.com/60064512/224487714-c46c1ee9-2908-4be6-9a92-4cbfce43583a.png" style="max-width: 100%;">  <img width="148" alt="08 saas" src="https://user-images.githubusercontent.com/60064512/224487717-ba1f0a03-27ff-4456-bd51-8b6178b32671.png" style="max-width: 100%;"> <img width="148" alt="MongoDB Code" src="https://user-images.githubusercontent.com/60064512/224487715-5ab0ad8b-a7a8-403c-83e9-740ef3ee4b52.png" style="max-width: 100%;">
 
+<img
+  src="https://user-images.githubusercontent.com/60064512/224487711-7d447481-a5a8-4b0e-8d7b-3e3fc500a70d.png"
+  alt="Technology Stack"
+  style="max-width: 100%;"
+/>
+
 <img width="148" alt="01 html" src="[https://user-images.githubusercontent.com/60064512/224487706-10850994-3a0f-419e-9a48-013107a1aac5.png](https://user-images.githubusercontent.com/60064512/224487711-7d447481-a5a8-4b0e-8d7b-3e3fc500a70d.png)" style="max-width: 100%;">  <img width="148" alt="02 css" src="https://user-images.githubusercontent.com/60064512/224487709-2a638c09-e758-4ee0-8a33-149bf7cb3562.png" style="max-width: 100%;">  <img width="148" alt="MongoDB Example" src="https://user-images.githubusercontent.com/60064512/224487714-c46c1ee9-2908-4be6-9a92-4cbfce43583a.png" style="max-width: 100%;">  <img width="148" alt="08 saas" src="https://user-images.githubusercontent.com/60064512/224487717-ba1f0a03-27ff-4456-bd51-8b6178b32671.png" style="max-width: 100%;"> <img width="148" alt="MongoDB Code" src="https://user-images.githubusercontent.com/60064512/224487715-5ab0ad8b-a7a8-403c-83e9-740ef3ee4b52.png" style="max-width: 100%;">
 
 
